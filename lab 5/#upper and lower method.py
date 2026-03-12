@@ -1,0 +1,3 @@
+#upper and lower method 
+a='hello'
+print(a.upper())
